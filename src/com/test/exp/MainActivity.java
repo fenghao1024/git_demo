@@ -49,6 +49,8 @@ public class MainActivity extends Activity {
     	
     	
     	
+    	
+    	
     	String[][] city = {{"北京", "上海", "广州"}, {"纽约", "华盛顿", "芝加哥"}, {"North", "South", "DotB", "DotA"}};
     	for (int i = 0; i < city.length; i++) {
     		Map<String, Boolean> curGB = new HashMap<String, Boolean>();
